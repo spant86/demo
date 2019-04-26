@@ -1,37 +1,39 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "email":"gocoders@hotmail.com",
-    "user": "spant",
-    "password": "P@ssword12"
-  },
-  {
-    "userId": 2,
-    "id": 2,
-    "email":"narnia76@gmail.com",
-    "user": "nancy789",
-    "password": "P@ssword34"
-  },
-  {
-    "userId": 3,
-    "id": 3,
-    "email":"seaman@yahoo.com",
-    "user": "seasurfers",
-    "password": "P@ssword56"
-  },
-  {
-    "userId": 4,
-    "id": 4,
-    "email":"backbenchers@hotmail.com",
-    "user": "steve90",
-    "password": "P@ssword78"
-  },
-  {
-    "userId": 5,
-    "id": 5,
-    "email":"rookie09@hotmail.com",
-    "user": "rookie",
-    "password": "P@ssword09"
-  } 
-]
+{
+  "login": [
+    {
+      "userId": 1,
+      "id": 1,
+      "email":"gocoders@hotmail.com",
+      "user": "spant",
+      "password": "P@ssword12"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "email":"narnia76@gmail.com",
+      "user": "nancy789",
+      "password": "P@ssword34"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "email":"seaman@yahoo.com",
+      "user": "seasurfers",
+      "password": "P@ssword56"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "email":"backbenchers@hotmail.com",
+      "user": "steve90",
+      "password": "P@ssword78"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "email":"rookie09@hotmail.com",
+      "user": "rookie",
+      "password": "P@ssword09"
+    } 
+  ]
+}
